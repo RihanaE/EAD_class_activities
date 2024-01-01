@@ -19,6 +19,8 @@
 			</div>
 			<div>
 				<a href="editProfile.jsp">Edit Profile</a>
+					&nbsp; &nbsp;
+				<a href="logout.jsp">Log Out</a>
 			</div>
 		</div>
 	</div>
